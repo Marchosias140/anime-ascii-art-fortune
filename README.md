@@ -1,3 +1,6 @@
+DISCLAIMER: I don't own any of the characters depicted in the files. This is a purely fanmade project.
+
+
 Anime ascii art for the Fortune app.
 
 ```sudo dnf install fortune```
